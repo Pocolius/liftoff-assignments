@@ -30,20 +30,19 @@ works more as a mobile app than a website, but is a possibility in email form as
 would receive this notification if the Food Truck is saved to their favorites and/or if they're within a X mile range.
 
 ### Technologies
-(Completely unsure here)
-Java
-IntelliJ
-MAMP
-some sort of GPS/google Maps integration for location information/comparisons
+* Java
+* IntelliJ
+* MAMP
+* Google Maps API
 
 
 
 ### What I'll Have to Learn
-GPS/Google Maps integration (API?)
-Potentially might be blurring the line between web and mobile app - going to spend some time researching on languages 
+* GPS/Google Maps integration (API?)
+* Potentially might be blurring the line between web and mobile app - going to spend some time researching on languages 
 and seeing if I can get a better sense of course of direction with this.
-Notifications from a web app
-I'm sure there's more - I'll probably come back and keep adding to this as I go through the project.
+* Notifications from a web app
+* I'm sure there's more - I'll probably come back and keep adding to this as I go through the project.
 
 ### Project Tracker
 https://www.pivotaltracker.com/n/projects/2185432
